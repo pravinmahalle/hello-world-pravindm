@@ -1,0 +1,13 @@
+{
+    "name": "pmahalle/php-first-hello-world-message",
+    "description": "this library will print message",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pravin Mahalle",
+            "email": "pravinmahalle@outlook.com"
+        }
+    ],
+    "require": {}
+}
